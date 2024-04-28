@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.394b3fe7.css",
+    "main.js": "/static/js/main.0c1fe951.js",
+    "static/js/787.d5ba6744.chunk.js": "/static/js/787.d5ba6744.chunk.js",
+    "static/media/technology.png": "/static/media/technology.5c6c68ae34195f2751f9.png",
+    "static/media/ai.jpg": "/static/media/ai.2c103a091acce093f2cf.jpg",
+    "static/media/cybersecurity.jpg": "/static/media/cybersecurity.b5c10367247cbb162307.jpg",
+    "index.html": "/index.html",
+    "main.394b3fe7.css.map": "/static/css/main.394b3fe7.css.map",
+    "main.0c1fe951.js.map": "/static/js/main.0c1fe951.js.map",
+    "787.d5ba6744.chunk.js.map": "/static/js/787.d5ba6744.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.394b3fe7.css",
+    "static/js/main.0c1fe951.js"
+  ]
+}
